@@ -1,3 +1,12 @@
+/*   
+Theme Name: Josh's Wordpress Site
+Theme URI: http://joshwhitkin.com
+Description: A style-free theme to get you started on an HTML5-based Wordpress theme of your own.
+Author: Me
+Author URI: http://joshwhitkin.com
+Version: 1
+*/ 
+
 body {
     font-size: 16px;
     font-family: arial, sans-serif;
@@ -39,7 +48,7 @@ a:hover {
 }
 
 .herobg {
-    background: url("images/header-bg.jpg") no-repeat center center;
+    background: url("http://206.189.45.97/~mesh15/wp-content/uploads/2020/03/header-bg.jpg") no-repeat center center;
     background-size: cover;
 }
 

@@ -16,7 +16,6 @@ a:hover {
 }
 
 .navbar-nav li a:hover {
-
     background-color: transparent;
 }
 
@@ -69,7 +68,6 @@ a:hover {
 }
 
 .particle {
-
     text-align: right;
     margin-right: 150px;
     font-size: 1.5em;
@@ -80,7 +78,6 @@ a:hover {
 }
 
 .about-text {
-
     margin-left: 40px;
     margin-right: 40px;
     font-size: 1.8em;
@@ -89,7 +86,6 @@ a:hover {
 }
 
 .blocker {
-
     width: 140px;
     height: 8px;
     background-color: purple;
@@ -106,22 +102,17 @@ a:hover {
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
     color: #3c1f68;
-
 }
 
 h4 {
-
     font-size: 1.6em;
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
-
-
 }
 
 .date {
     letter-spacing: 2px;
     font-size: 0.8em;
-
 }
 
 .readmore {
@@ -137,9 +128,9 @@ h4 {
     background-position: center center;
 }
 
-.footer-content{
+.footer-content {
     margin-top: 30px;
     margin-bottom: 30px;
     color: white;
-    
+
 }

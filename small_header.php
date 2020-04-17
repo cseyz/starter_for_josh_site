@@ -35,7 +35,7 @@
 </head>
 
 <body>
-    <header class="container-fluid herobg">
+    <header class="container-fluid small_herobg">
         <nav class="navbar">
             <div class="container-fluid">
                 <div class="navbar-header">
@@ -47,22 +47,14 @@
                     <a class="navbar-brand" href="#"><span class="josh">JOSH</span><span class="orange">WHITKIN</span></a>
                 </div>
                 <div class="collapse navbar-collapse" id="myNavbar">
-
-<ul class="nav navbar-nav navbar-right">
-<?php wp_nav_menu(array(
-        'menu' => 'Top menu',
-        'items_wrap'=>'%3$s',
-        'container' => false,
-        'list_item_class' => "nav-item",
-        'link_class' => "nav-link",
-        )); ?>
-</ul>
-
-                    
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="active"><a href="#">HOME</a></li>
+                        <li><a href="#">PROJECTS</a></li>
+                        <li><a href="#">PUBLICATIONS</a></li>
+                        <li><a href="#">CV</a></li>
+                        <li><a href="#">CONTACT</a></li>
+                    </ul>
                 </div>
             </div>
         </nav>
-        <div class="container">
-            <h1> Games Design for the future</h1>
-        </div>
     </header>
